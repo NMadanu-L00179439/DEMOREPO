@@ -1,3 +1,3 @@
 #Demo of GitHub
 
-Demo by Neeharica
+Demo by Neeharica Madanu
